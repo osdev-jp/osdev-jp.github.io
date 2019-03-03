@@ -23,6 +23,3 @@
 ## Slack, GitHub組織への参加方法
 すでに参加しているメンバー経由もしくはTwitter等で[osdev-jp管理者](https://github.com/orgs/osdev-jp/people)までおしらせください．
 または，自作OSもくもく会へ来ていただければその場で登録します！
-
-## 名称及びロゴマークの使用規定
-osdev-jpの名称およびロゴマークを使用する際には，[osdev-jp管理者](https://github.com/orgs/osdev-jp/people)から文面による許可を受ける必要があります．
