@@ -14,12 +14,15 @@
 各種イベントの告知用
 
 ## 自作OSもくもく会
-だいたい隔月ごとに「自作OSもくもく会」を実施しています。[ATNDのページ](https://atnd.org/groups/osdev-jp)からグループに参加すると次回開催の告知が届きます。
+だいたい隔月ごとに「自作OSもくもく会」を実施しています．[ATNDのページ](https://atnd.org/groups/osdev-jp)からグループに参加すると次回開催の告知が届きます．
 
 ぜひご参加ください！
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=osdev_moku2&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #osdev_moku2</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Slack, GitHubへの参加方法
-すでに参加しているメンバー経由もしくはTwitter等で[管理者](https://github.com/orgs/osdev-jp/people)までおしらせください．
-自作OSもくもく会へ来ていただければその場で登録します！
+## Slack, GitHub組織への参加方法
+すでに参加しているメンバー経由もしくはTwitter等で[osdev-jp管理者](https://github.com/orgs/osdev-jp/people)までおしらせください．
+または，自作OSもくもく会へ来ていただければその場で登録します！
+
+## 名称及びロゴマークの使用規定
+osdev-jpの名称およびロゴマークを使用する際には，[osdev-jp管理者](https://github.com/orgs/osdev-jp/people)から文面による許可を受ける必要があります．
