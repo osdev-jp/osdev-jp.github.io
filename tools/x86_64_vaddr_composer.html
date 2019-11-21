@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>x86-64 Virtual Address Composer</title>
+    <meta charset="UTF-8">
+  </head>
+  <body onload="decompose()">
+  <script>
+    function setPart(name, value) {
+      let part = document.getElementById(name);
+      part.value = ('000' + value.toString(16)).slice(-3);
+      part.style.backgroundColor = "";
+    }
+
+    function decompose() {
+      let vaddr = document.getElementById("vaddr").value;
+      let vaddr_hi = parseInt(('0000000000000000' + vaddr).slice(-16, -8), 16);
+      let vaddr_lo = parseInt(('00000000' + vaddr).slice(-8), 16);
+      let pml4 = (vaddr_hi >> (39 - 32)) & 0x1ff;
+      let pdp = ((vaddr_hi << 2) & 0x1fc) | ((vaddr_lo >> 30) & 0x3);
+      let pd = (vaddr_lo >> 21) & 0x1ff;
+      let pt = (vaddr_lo >> 12) & 0x1ff;
+      let off = vaddr_lo & 0xfff;
+      setPart("pml4", pml4);
+      setPart("pdp", pdp);
+      setPart("pd", pd);
+      setPart("pt", pt);
+      setPart("offset", off);
+    }
+
+    function to_hex(i) {
+      return ('00000000' + (i >>> 0).toString(16)).slice(-8);
+    }
+
+    function getPart(name, maxValue) {
+      let part = document.getElementById(name);
+      let v = parseInt(part.value, 16);
+      if (v < 0 || v > maxValue) {
+        part.style.backgroundColor = "red";
+      } else {
+        part.style.backgroundColor = "";
+      }
+      return v;
+    }
+
+    function compose() {
+      let pml4 = getPart("pml4", 0x200);
+      let pdp = getPart("pdp", 0x200);
+      let pd = getPart("pd", 0x200);
+      let pt = getPart("pt", 0x200);
+      let off = getPart("offset", 0x1000);
+      let canonical = 0;
+      if (pml4 >>> 8) {
+        canonical = 0xffff;
+      }
+      let vaddr_hi = canonical << 16 | pml4 << (39 - 32) | pdp >> 2;
+      let vaddr_lo = (pdp & 0x3) << 30 | pd << 21 | pt << 12 | off;
+      document.getElementById("vaddr").value = to_hex(vaddr_hi) + to_hex(vaddr_lo);
+    }
+  </script>
+
+  <h1>x86-64 Virtual Address Composer</h1>
+
+  <p>
+  vaddr 0x<input type="text" id="vaddr" size="16" maxlength="16" oninput="decompose()" value="ffff800012345678"></input>
+  </p>
+  <hr>
+  <table>
+    <tr>
+      <td>PML4</td>
+      <td>0x<input type="text" id="pml4" size="2" maxlength="3" oninput="compose()" /></td>
+    </tr>
+    <tr>
+      <td>PDP</td>
+      <td>0x<input type="text" id="pdp" size="2" maxlength="3" oninput="compose()" /></td>
+    </tr>
+    <tr>
+      <td>PD</td>
+      <td>0x<input type="text" id="pd" size="2" maxlength="3" oninput="compose()" /></td>
+    </tr>
+    <tr>
+      <td>PT</td>
+      <td>0x<input type="text" id="pt" size="2" maxlength="3" oninput="compose()" /></td>
+    </tr>
+    <tr>
+      <td>Offset</td>
+      <td>0x<input type="text" id="offset" size="2" maxlength="3" oninput="compose()" /></td>
+    </tr>
+  </table>
+  </body>
+</html>
