@@ -20,6 +20,9 @@
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=osdev_moku2&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #osdev_moku2</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Slack, GitHub組織への参加方法
-すでに参加しているメンバー経由もしくはTwitter等で[osdev-jp管理者](https://github.com/orgs/osdev-jp/people)までおしらせください．
-または，自作OSもくもく会へ来ていただければその場で登録します！
+## Slack, MLへの参加方法
+SlackやMLではOS開発の質問とか相談が日々やり取りされています．
+「30日でできる！OS自作入門」に関するサポートも有志により行われています．
+
+SlackやMLへ参加いただくことでosdev-jpのメンバーとなれます．
+詳しくは [参加方法](joinus.md) をご覧ください．
