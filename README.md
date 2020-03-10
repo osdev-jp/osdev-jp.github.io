@@ -14,15 +14,15 @@
 各種イベントの告知用
 
 ## 自作OSもくもく会
-だいたい隔月ごとに「自作OSもくもく会」を実施しています。[connpassのページ](https://osdev-jp.connpass.com/)からグループに参加すると次回開催の告知が届きます。
+だいたい隔月ごとに「自作OSもくもく会」を実施しています。[connpassのページ](https://osdev-jp.connpass.com/)からグループメンバーになると次回開催の告知が届きます。
 
 ぜひご参加ください！
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=osdev_moku2&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #osdev_moku2</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Slack、MLへの参加方法
-SlackやMLではOS開発の質問とか相談が日々やり取りされています。
+## Slack、メーリングリストへの参加方法
+Slackやメーリングリスト（ML）ではOS開発の質問とか相談が日々やり取りされています。
 「30日でできる！OS自作入門」に関するサポートも有志により行われています。
 
-SlackやMLへ参加いただくことでosdev-jpのメンバーとなれます。
+SlackかMLのいずれか（または両方）へ参加いただくことでosdev-jpのメンバーとなれます。
 詳しくは [参加方法](joinus.md) をご覧ください。
