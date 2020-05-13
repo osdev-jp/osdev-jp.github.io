@@ -13,7 +13,7 @@ OS自作や低レイヤに対する熱い思いがあれば、申請が承認さ
 - 連絡先
     - Twitter [@uchan_nos](https://twitter.com/uchan_nos)
     - Twitter [@hikalium](https://twitter.com/hikalium)
-    - E-Mail uchan@osdev.jp
+    - E-Mail uchan@mail.osdev.jp
 - 必要事項
     - メールアドレス
     - 参加希望の媒体（SlackかML。両方でもかまいません）
