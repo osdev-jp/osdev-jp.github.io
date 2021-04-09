@@ -8,7 +8,9 @@
 - [#general](https://osdev-jp.slack.com/messages/C0XA3GB7F/)
 自己紹介用
 - [#random](https://osdev-jp.slack.com/messages/C0XA87EM7/)
-何でも雑談用
+ちょっと重要な雑談用
+- [#雑談](https://osdev-jp.slack.com/archives/CTC0F40TV)
+randomよりもゆるい雑談用
 - [#初心者質問相談](https://osdev-jp.slack.com/messages/CGEGWHRGQ/)
 初心者専用の質問・相談チャンネル
 - [#event](https://osdev-jp.slack.com/messages/C626TTWMP/)
