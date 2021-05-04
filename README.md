@@ -1,5 +1,5 @@
 ## リンク
-- [Wiki](https://github.com/osdev-jp/osdev-jp.github.io/wiki) OS開発に役立つ情報が集まっています。GitHubアカウントがあれば編集できます。
+- [Wiki](./wiki/Home.md) OS開発に役立つ情報が集まっています。GitHubアカウントがあれば編集できます。
 - [GitHub](https://github.com/osdev-jp) サンプルコードなどが置いてあります。
 - [Slack](https://osdev-jp.slack.com/) OS開発に関する話をするosdev-jp公式チャットです。
 - [YouTube](https://www.youtube.com/channel/UCZi_C-xvC5qNcALfD_5JKIg) OS開発に関わる情報を動画で解説しています。
