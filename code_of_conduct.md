@@ -1,4 +1,4 @@
-# osdev-jp Code of Conduct
+## osdev-jp Code of Conduct
 
 - Author: hikalium
 - Reviewer: uchan_nos
@@ -14,23 +14,23 @@ osdev-jpの主催するイベント、およびosdev-jpが管理するコミュ�
 osdev-jp管理者には、本行動指針に反する行為をした参加者に対し、そのような行為を止めるよう声を上げる責任があります。同時に、参加者それぞれの適切な行動も重要です。
 本行動指針に反してコミュニティの安全をゆるがす行為を継続した参加者に対しては、本コミュニティやその主催するイベントへの参加の禁止等の対処を行うことがあります。
 
-## 求められる行動（ぜひやりましょう）
+### 求められる行動（ぜひやりましょう）
 
 - 異なる意見、視点、経験を尊重し、お互いの違いを歓迎する
 - 建設的な意見を積極的に発信し、知見を広く共有する
 - 失敗を恐れず行動し、失敗を受け入れ、失敗から学ぶ
 - 常にお互いに敬意をもって対等に接する
 
-## 不適切とみなされる行動（してはいけません）
+### 不適切とみなされる行動（してはいけません）
 - 特定の個人や組織、製品やプロジェクトなどを貶めたり、誹謗中傷すること
 - 性、性同一性、性表現、性的指向、障害、身体的外見、身体の大きさ、人種、民族性、国籍、宗教、年齢などに関する攻撃的、不適切、または不必要な言及
 - あらゆる形態の、他者への脅迫・虐め・ハラスメント
 
-# 相談先
+## 相談先
 
 [osdev-jp 管理者](https://github.com/orgs/osdev-jp/people)
 
-# 参考文献
+## 参考文献
 - https://www.security-camp.or.jp/about/harassment.html 
 - https://github.com/docker/code-of-conduct/blob/master/code-of-conduct-JP.md 
 - https://rework.withgoogle.com/jp/subjects/unbiasing/ 
