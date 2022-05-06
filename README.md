@@ -30,3 +30,8 @@ Slackやメーリングリスト（ML）ではOS開発の質問とか相談が�
 
 SlackかMLのいずれか（または両方）へ参加いただくことでosdev-jpのメンバーとなれます。
 詳しくは [参加方法](joinus.md) をご覧ください。
+
+## 行動規範(Code of Conduct)
+
+osdev-jpの主催するイベント、およびosdev-jpが管理するコミュニティに関わる全ての方には [osdev-jp Code of Conduct](code_of_conduct.md) に記載されている内容を遵守することが求められます。必ずご一読ください。
+
