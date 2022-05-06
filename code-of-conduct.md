@@ -31,7 +31,7 @@ osdev-jp管理者には、本行動指針に反する行為をした参加者に
 [osdev-jp 管理者](https://github.com/orgs/osdev-jp/people)
 
 ## 参考文献
-- https://www.security-camp.or.jp/about/harassment.html 
-- https://github.com/docker/code-of-conduct/blob/master/code-of-conduct-JP.md 
-- https://rework.withgoogle.com/jp/subjects/unbiasing/ 
-- https://github.com/otaku-project/Terms/blob/master/Code-of-Conduct.md
+- [https://www.security-camp.or.jp/about/harassment.html](https://www.security-camp.or.jp/about/harassment.html)
+- [https://github.com/docker/code-of-conduct/blob/master/code-of-conduct-JP.md](https://github.com/docker/code-of-conduct/blob/master/code-of-conduct-JP.md)
+- [https://rework.withgoogle.com/jp/subjects/unbiasing/](https://rework.withgoogle.com/jp/subjects/unbiasing/) 
+- [https://github.com/otaku-project/Terms/blob/master/Code-of-Conduct.md](https://github.com/otaku-project/Terms/blob/master/Code-of-Conduct.md)
