@@ -1,5 +1,5 @@
-## 第7回Rustで書かれたOS Redoxを読む会のご案内！
-6月24日開催です。参加登録は[こちら](https://osdev-jp.connpass.com/event/283882/)から！
+## 第34回自作OSもくもく会のご案内！
+7月29日開催です。参加登録は[こちら](https://osdev-jp.connpass.com/event/289060/)から！
 
 ## リンク
 - [Wiki](https://github.com/osdev-jp/osdev-jp.github.io/wiki) OS開発に役立つ情報が集まっています。GitHubアカウントがあれば編集できます。
