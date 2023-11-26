@@ -17,4 +17,4 @@ jobs:
       with:
           pullRequestNumber: ${{ github.event.pull_request.number }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          labels: "dependencies"
+          labels: "dependencies,submodules"
