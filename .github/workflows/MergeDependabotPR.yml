@@ -9,7 +9,8 @@ on:
 jobs:
   merge:
     if: github.event.pull_request.user.login == 'dependabot[bot]'
-    permissions: write-all
+    permissions:
+       contents: write
     runs-on: ubuntu-latest
     steps:
     - uses: KeisukeYamashita/auto-pull-request-merge@v1
