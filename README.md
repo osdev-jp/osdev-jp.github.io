@@ -1,5 +1,5 @@
-## 第36回自作OSもくもく会オンラインのご案内！
-11月26日（日）開催です。参加登録は[こちら](https://osdev-jp.connpass.com/event/301367/)から！
+## 第37回自作OSもくもく会オンラインのご案内！
+1月27日（土）開催です。参加登録は[こちら](https://osdev-jp.connpass.com/event/306780/)から！
 
 ## リンク
 - [Wiki](https://github.com/osdev-jp/osdev-jp.github.io/wiki) OS開発に役立つ情報が集まっています。GitHubアカウントがあれば編集できます。
