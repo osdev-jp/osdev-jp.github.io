@@ -5,7 +5,7 @@
 - [Slack](https://osdev-jp.slack.com/) OS開発に関する話をするosdev-jp公式チャットです。
 - [YouTube](https://www.youtube.com/channel/UCZi_C-xvC5qNcALfD_5JKIg) OS開発に関わる情報を動画で解説しています。
 
-## Slack 主なチャンネルの案内
+## Slack 主な<!--全ての-->チャンネルの案内
 - [#general](https://osdev-jp.slack.com/messages/C0XA3GB7F/)
 自己紹介用
 - [#random](https://osdev-jp.slack.com/messages/C0XA87EM7/)
@@ -22,6 +22,8 @@ randomよりもゆるい雑談用（低レイヤに関係無さそうでも歓�
 メーリングリストの管理用
 - [#未読位置消え防止用待避所](https://osdev-jp.slack.com/messages/C07GFJP0SEQ/)
 PC版で最初に表示したチャンネルの未読位置のズレ回避用
+- [#自作vmm](https://osdev-jp.slack.com/messages/CA0N3LCTE/)
+仮想化技術向け
 
 ## 自作OSもくもく会
 だいたい隔月ごとに「自作OSもくもく会」を実施しています。[connpassのページ](https://osdev-jp.connpass.com/)からグループメンバーになると次回開催の告知が届きます。
