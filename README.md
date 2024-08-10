@@ -5,17 +5,23 @@
 - [Slack](https://osdev-jp.slack.com/) OS開発に関する話をするosdev-jp公式チャットです。
 - [YouTube](https://www.youtube.com/channel/UCZi_C-xvC5qNcALfD_5JKIg) OS開発に関わる情報を動画で解説しています。
 
-## Slack チャンネル案内
+## Slack 主なチャンネルの案内
 - [#general](https://osdev-jp.slack.com/messages/C0XA3GB7F/)
 自己紹介用
 - [#random](https://osdev-jp.slack.com/messages/C0XA87EM7/)
-ちょっと重要な雑談用
+重要な雑談、OS 関連の議論、広く周知したい事等
 - [#雑談](https://osdev-jp.slack.com/archives/CTC0F40TV)
-randomよりもゆるい雑談用
+randomよりもゆるい雑談用（低レイヤに関係無さそうでも歓迎）
 - [#初心者質問相談](https://osdev-jp.slack.com/messages/CGEGWHRGQ/)
 初心者専用の質問・相談チャンネル
 - [#event](https://osdev-jp.slack.com/messages/C626TTWMP/)
-各種イベントの告知用
+自作OSもくもく会などの各種イベントの告知用
+- [#進捗発表](https://osdev-jp.slack.com/messages/CA13F2LAH/)
+自作OS開発や低レイヤ関連の進捗発表はこちらで行えます。
+- [#ml-admin](https://osdev-jp.slack.com/messages/CUN5JLSTD/)
+メーリングリストの管理用
+- [#未読位置消え防止用待避所](https://osdev-jp.slack.com/messages/C07GFJP0SEQ/)
+PC版で最初に表示したチャンネルの未読位置のズレ回避用
 
 ## 自作OSもくもく会
 だいたい隔月ごとに「自作OSもくもく会」を実施しています。[connpassのページ](https://osdev-jp.connpass.com/)からグループメンバーになると次回開催の告知が届きます。
