@@ -5,7 +5,7 @@
 - [Slack](https://osdev-jp.slack.com/) OS開発に関する話をするosdev-jp公式チャットです。
 - [YouTube](https://www.youtube.com/channel/UCZi_C-xvC5qNcALfD_5JKIg) OS開発に関わる情報を動画で解説しています。
 
-## Slack 主な<!--全ての-->チャンネルの案内
+## Slack 全てのチャンネルの案内
 - [#general](https://osdev-jp.slack.com/messages/C0XA3GB7F/)
 自己紹介用
 - [#random](https://osdev-jp.slack.com/messages/C0XA87EM7/)
