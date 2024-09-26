@@ -18,8 +18,6 @@ randomよりもゆるい雑談用（低レイヤに関係無さそうでも歓�
 自作OSもくもく会などの各種イベントの告知用
 - [#進捗発表](https://osdev-jp.slack.com/messages/CA13F2LAH/)
 自作OS開発や低レイヤ関連の進捗発表はこちらで行えます。
-- [#ml-admin](https://osdev-jp.slack.com/messages/CUN5JLSTD/)
-メーリングリストの管理用
 - [#未読位置消え防止用待避所](https://osdev-jp.slack.com/messages/C07GFJP0SEQ/)
 PC版で最初に表示したチャンネルの未読位置のズレ回避用
 - [#自作vmm](https://osdev-jp.slack.com/messages/CA0N3LCTE/)
