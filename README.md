@@ -6,22 +6,54 @@
 - [YouTube](https://www.youtube.com/channel/UCZi_C-xvC5qNcALfD_5JKIg) OS開発に関わる情報を動画で解説しています。
 
 ## Slack 全てのチャンネルの案内
+
+### 重要チャンネル
 - [#general](https://osdev-jp.slack.com/messages/C0XA3GB7F/)
-自己紹介用
+	- 自己紹介用チャンネル
 - [#random](https://osdev-jp.slack.com/messages/C0XA87EM7/)
-重要な雑談、OS 関連の議論、広く周知したい事等
-- [#雑談](https://osdev-jp.slack.com/archives/CTC0F40TV)
-randomよりもゆるい雑談用（低レイヤに関係無さそうでも歓迎）
+	- 重要な雑談、OS 関連の議論、広く周知したい事等のチャンネル
+
+### 一般チャンネル
 - [#初心者質問相談](https://osdev-jp.slack.com/messages/CGEGWHRGQ/)
-初心者専用の質問・相談チャンネル
-- [#event](https://osdev-jp.slack.com/messages/C626TTWMP/)
-自作OSもくもく会などの各種イベントの告知用
+	- 初心者専用の質問・相談チャンネル
+	- OS 関連なら、気軽に質問ができます。
+- [#雑談](https://osdev-jp.slack.com/archives/CTC0F40TV)
+	- 低レイヤに無関係でも歓迎する雑談チャンネル
 - [#進捗発表](https://osdev-jp.slack.com/messages/CA13F2LAH/)
-自作OS開発や低レイヤ関連の進捗発表はこちらで行えます。
-- [#未読位置消え防止用待避所](https://osdev-jp.slack.com/messages/C07GFJP0SEQ/)
-PC版で最初に表示したチャンネルの未読位置のズレ回避用
+	- 自作OS開発や低レイヤ関連の進捗発表用チャンネル
+	- 投稿例
+		- 「作品○○を制作中です」
+		- 「作品○○が出来ました」
+		- 「○○の本、□章突入しました」
+		- 「○○の技術を勉強しました」
+- [#event](https://osdev-jp.slack.com/messages/C626TTWMP/)
+	- 各種イベントの告知用チャンネル
+ 	- 最近は「自作OSもくもく会」「もくもく作業会(仮称)」が行われています。
+
+### 専門チャンネル
 - [#自作vmm](https://osdev-jp.slack.com/messages/CA0N3LCTE/)
-仮想化技術向け
+	- 仮想化技術、エミュレータ、ハイパーバイザ系向けのチャンネル
+
+### 特別チャンネル
+- [#未読位置消え防止用待避所](https://osdev-jp.slack.com/messages/C07GFJP0SEQ/)
+	- PC版で最初に表示したチャンネルの未読位置がズレてしまう事があります。
+	- それを回避するにはこのチャンネルを最後に開いてからアプリを閉じてください。
+	- 尚、このチャンネルには何も投稿しない事をおすすめします。
+
+<!--
+### チャンネルの作成手順
+0. 事前段階として、予め需要を調査してください。チャンネルの整理に関わる事ですので、必ずやってください。
+1. チャンネルの名前、目的や役割を設定します。
+2. #random で告知し、キャンバス「osdev-jpチャンネル一覧」に簡単な説明を追加します。
+3. チャンネル一覧の適切な位置に、説明を記載します。
+	* 殆どの場合、「専門チャンネル」に分類されます。
+	* テンプレート
+		```md
+		- [#<チャンネル名>](https://osdev-jp.slack.com/messages/<チャンネルID>/)
+			- <概要説明>チャンネル
+ 			- <詳細説明>
+		```
+-->
 
 ## 自作OSもくもく会
 だいたい隔月ごとに「自作OSもくもく会」を実施しています。[connpassのページ](https://osdev-jp.connpass.com/)からグループメンバーになると次回開催の告知が届きます。
