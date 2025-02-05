@@ -1,0 +1,20 @@
+
+name: "Merge Dependabot PR"
+
+on:
+  pull_request:
+    types: [ opened, reopened ]
+    branches: [ master ]
+
+jobs:
+  merge:
+    if: github.event.pull_request.user.login == 'dependabot[bot]'
+    permissions:
+       contents: write
+    runs-on: ubuntu-latest
+    steps:
+    - uses: KeisukeYamashita/auto-pull-request-merge@v1
+      with:
+          pullRequestNumber: ${{ github.event.pull_request.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          labels: "dependencies,submodules"
