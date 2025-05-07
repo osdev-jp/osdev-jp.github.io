@@ -1,7 +1,7 @@
-## 第44回自作OSもくもく会オンラインのご案内！
+## 第45回自作OSもくもく会オンラインのご案内！
 OS自作をやっている人々で集まって，進捗を共有したり，みんなで黙々と作業する時間を取る会です！
-3月29日（土）開催です！
-参加登録は[こちら](https://osdev-jp.connpass.com/event/347977/)から！
+5月31日（土）開催です！
+参加登録は[こちら](https://osdev-jp.connpass.com/event/354860/)から！
 
 ## リンク
 - [Wiki](https://github.com/osdev-jp/osdev-jp.github.io/wiki) OS開発に役立つ情報が集まっています。GitHubアカウントがあれば編集できます。
