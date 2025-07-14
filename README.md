@@ -28,7 +28,8 @@ PC版で最初に表示したチャンネルの未読位置のズレ回避用
 
 ぜひご参加ください！
 
-<a href="https://x.com/intent/post?text=&hashtags=osdev_moku2&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Post #osdev_moku2</a><script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+* [`#osdev_moku2` を X (旧 Twitter) で投稿する](https://x.com/intent/post?hashtags=osdev_moku2)
+* [`#osdev_moku2` を X (旧 Twitter) で検索する](https://x.com/search?q=%23osdev_moku2)
 
 ## Slack、メーリングリストへの参加方法
 Slackやメーリングリスト（ML）ではOS開発の質問とか相談が日々やり取りされています。
