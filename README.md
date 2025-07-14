@@ -33,7 +33,7 @@ PC版で最初に表示したチャンネルの未読位置のズレ回避用
 
 ぜひご参加ください！
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=osdev_moku2&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #osdev_moku2</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://x.com/intent/post?text=&hashtags=osdev_moku2&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Post #osdev_moku2</a><script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 ## Slack、メーリングリストへの参加方法
 Slackやメーリングリスト（ML）ではOS開発の質問とか相談が日々やり取りされています。
@@ -45,4 +45,3 @@ SlackかMLのいずれか（または両方）へ参加いただくことでosde
 ## 行動規範(Code of Conduct)
 
 osdev-jpの主催するイベント、およびosdev-jpが管理するコミュニティに関わる全ての方には [osdev-jp Code of Conduct](code-of-conduct.md) に記載されている内容を遵守することが求められます。必ずご一読ください。
-
