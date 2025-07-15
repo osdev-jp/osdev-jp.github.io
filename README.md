@@ -1,3 +1,6 @@
+# osdev-jp
+[![Update Wiki Submodule](https://github.com/osdev-jp/osdev-jp.github.io/actions/workflows/UpdateWikiSubmodule.yml/badge.svg)](https://github.com/osdev-jp/osdev-jp.github.io/actions/workflows/UpdateWikiSubmodule.yml)
+
 ## 第45回自作OSもくもく会オンラインのご案内！
 OS自作をやっている人々で集まって，進捗を共有したり，みんなで黙々と作業する時間を取る会です！
 5月31日（土）開催です！
@@ -45,4 +48,3 @@ SlackかMLのいずれか（または両方）へ参加いただくことでosde
 ## 行動規範(Code of Conduct)
 
 osdev-jpの主催するイベント、およびosdev-jpが管理するコミュニティに関わる全ての方には [osdev-jp Code of Conduct](code-of-conduct.md) に記載されている内容を遵守することが求められます。必ずご一読ください。
-
