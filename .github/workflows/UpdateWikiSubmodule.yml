@@ -19,7 +19,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: "Switch to Master Branch"
-        run: git checkout master
+        run: |
+          git fetch origin
+          git checkout master
       - name: "Load Submodule"
         run: git submodule update --init --recursive
       - name: "Update Wiki Directory"
