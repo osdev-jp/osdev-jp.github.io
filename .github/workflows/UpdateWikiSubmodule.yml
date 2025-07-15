@@ -8,7 +8,7 @@ on:
     types: [ opened, reopened ]
     branches: [ master ]
   schedule:
-    - cron: "0 18 * * *" # 日本時間で毎日午前三時に実行
+    - cron: "0 18 * * *" # 日本時間で毎日午前三時に自動実行
   workflow_dispatch:
 
 jobs:
