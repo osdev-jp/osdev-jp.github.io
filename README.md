@@ -1,10 +1,10 @@
 # osdev-jp
 [![Update Wiki Submodule](https://github.com/osdev-jp/osdev-jp.github.io/actions/workflows/UpdateWikiSubmodule.yml/badge.svg)](https://github.com/osdev-jp/osdev-jp.github.io/actions/workflows/UpdateWikiSubmodule.yml)
 
-## 第45回自作OSもくもく会オンラインのご案内！
+## 第46回自作OSもくもく会オンラインのご案内！
 OS自作をやっている人々で集まって，進捗を共有したり，みんなで黙々と作業する時間を取る会です！
-5月31日（土）開催です！
-参加登録は[こちら](https://osdev-jp.connpass.com/event/354860/)から！
+7月27日（日）開催です！
+参加登録は[こちら](https://osdev-jp.connpass.com/event/361469/)から！
 
 ## リンク
 - [Wiki](https://github.com/osdev-jp/osdev-jp.github.io/wiki) OS開発に役立つ情報が集まっています。GitHubアカウントがあれば編集できます。
@@ -36,7 +36,9 @@ PC版で最初に表示したチャンネルの未読位置のズレ回避用
 
 ぜひご参加ください！
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=osdev_moku2&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #osdev_moku2</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+* `#osdev_moku2` を X (旧 Twitter) で
+	* [投稿する](https://x.com/intent/post?hashtags=osdev_moku2)
+	* [検索する](https://x.com/search?q=%23osdev_moku2)
 
 ## Slack、メーリングリストへの参加方法
 Slackやメーリングリスト（ML）ではOS開発の質問とか相談が日々やり取りされています。
