@@ -1,0 +1,41 @@
+
+name: "Update Wiki Submodule"
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    types: [ opened, reopened ]
+    branches: [ master ]
+  schedule:
+    - cron: "0 18 * * *" # 日本時間で毎日午前三時に自動実行
+  workflow_dispatch:
+
+jobs:
+  merge:
+    permissions:
+       contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: "Switch to Master Branch"
+        run: |
+          git fetch origin
+          git checkout master
+      - name: "Load Submodule"
+        run: git submodule update --init --recursive
+      - name: "Update Wiki Directory"
+        run: |
+          cd wiki
+          git fetch origin
+          git pull origin master
+          cd ..
+      - name: "Configure git user information."
+        run: |
+          git config --local user.email "noreply@localhost"
+          git config --local user.name "[BOT] Wiki Submodule Updater"
+      - name: "Commit & Push"
+        run: |
+          git add wiki
+          git commit -m "[BOT] Update Wiki Submodule to the Current Latest version" || exit $(($? - 1))
+          git push
