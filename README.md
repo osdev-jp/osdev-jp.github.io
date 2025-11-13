@@ -3,6 +3,11 @@ OS自作をやっている人々で集まって，進捗を共有したり，み
 11月30日（日）開催です！
 参加登録は[こちら](https://osdev-jp.connpass.com/event/374760/)から！
 
+## 自作OSアドベントカレンダー2025のご案内！
+積極的に記事を書いていただけると喜びます！
+今年の低レイヤー活動を記事にまとめてみんなに読んでほしいという人はぜひご活用ください！
+登録は[こちら](https://adventar.org/calendars/11966)から！
+
 ## リンク
 - [Wiki](https://github.com/osdev-jp/osdev-jp.github.io/wiki) OS開発に役立つ情報が集まっています。GitHubアカウントがあれば編集できます。
 	- [ウェブページとして見る](https://osdev.jp/wiki/Home.html)
