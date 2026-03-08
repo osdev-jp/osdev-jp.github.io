@@ -1,15 +1,10 @@
 # osdev-jp
 [![Update Wiki Submodule](https://github.com/osdev-jp/osdev-jp.github.io/actions/workflows/UpdateWikiSubmodule.yml/badge.svg)](https://github.com/osdev-jp/osdev-jp.github.io/actions/workflows/UpdateWikiSubmodule.yml)
 
-## 第48回自作OSもくもく発表作業会オンラインのご案内！
+## 第50回自作OSもくもく発表作業会オンラインのご案内！
 OS自作をやっている人々で集まって，進捗を共有したり，みんなで黙々と作業する時間を取る会です！
-11月30日（日）開催です！
-参加登録は[こちら](https://osdev-jp.connpass.com/event/374760/)から！
-
-## 自作OSアドベントカレンダー2025のご案内！
-積極的に記事を書いていただけると喜びます！
-今年の低レイヤー活動を記事にまとめてみんなに読んでほしいという人はぜひご活用ください！
-登録は[こちら](https://adventar.org/calendars/11966)から！
+3月28日（土）開催です！
+参加登録は[こちら](https://osdev-jp.connpass.com/event/379059/)から！
 
 ## リンク
 - [Wiki](https://github.com/osdev-jp/osdev-jp.github.io/wiki) OS開発に役立つ情報が集まっています。GitHubアカウントがあれば編集できます。
