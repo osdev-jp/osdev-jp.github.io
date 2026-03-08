@@ -1,3 +1,6 @@
+# osdev-jp
+[![Update Wiki Submodule](https://github.com/osdev-jp/osdev-jp.github.io/actions/workflows/UpdateWikiSubmodule.yml/badge.svg)](https://github.com/osdev-jp/osdev-jp.github.io/actions/workflows/UpdateWikiSubmodule.yml)
+
 ## 第50回自作OSもくもく発表作業会オンラインのご案内！
 OS自作をやっている人々で集まって，進捗を共有したり，みんなで黙々と作業する時間を取る会です！
 3月28日（土）開催です！
