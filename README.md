@@ -14,10 +14,6 @@ OS自作をやっている人々で集まって，進捗を共有したり，み
 
 ぜひご参加ください！
 
-* `#osdev_moku2` を X (旧 Twitter) で
-	* [投稿する](https://x.com/intent/post?hashtags=osdev_moku2)
-	* [検索する](https://x.com/search?q=%23osdev_moku2)
-
 ## Discord、メーリングリストへの参加方法
 Discordやメーリングリスト（ML）ではOS開発の質問とか相談が日々やり取りされています。
 「30日でできる！OS自作入門」や「ゼロからのOS自作入門」のサポートも有志により行われています。
@@ -26,6 +22,15 @@ DiscordかMLのいずれか（または両方）へ参加いただくことでos
 詳しくは [参加方法](joinus.md) をご覧ください。
 
 [チャットのチャンネル案内](channels.md)
+
+## X (旧 Twitter)
+|ハッシュタグ|リンク|説明|
+|:--|:-:|:--|
+|`#osdevjp`|[投稿](https://x.com/intent/post?hashtags=osdevjp) - [検索](https://x.com/search?q=%23osdevjp)|osdev-jp 全般のハッシュタグ。|
+|`#osdevmoku2`|[投稿](https://x.com/intent/post?hashtags=osdevmoku2) - [検索](https://x.com/search?q=%23osdevmoku2)|自作OSもくもく会の新しいハッシュタグ。2026年3月頃から使用。|
+|`#osdev_moku2`|[投稿](https://x.com/intent/post?hashtags=osdev_moku2) - [検索](https://x.com/search?q=%23osdev_moku2)|自作OSもくもく会の古いハッシュタグ。2026年3月頃まで使用。|
+
+[コミュニティ](https://x.com/i/communities/2036354446725353846)
 
 ## 行動規範(Code of Conduct)
 
