@@ -2,4 +2,6 @@ theme: jekyll-theme-minimal
 title: osdev.jp
 description: osdev-jpでは、OS開発に有用な情報を収集し公開しています
 logo: logo.png
+plugins:
+  - jekyll-sitemap
 markdown: GFM
