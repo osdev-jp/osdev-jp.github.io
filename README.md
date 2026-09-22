@@ -1,16 +1,14 @@
-## 第48回自作OSもくもく発表作業会オンラインのご案内！
-OS自作をやっている人々で集まって，進捗を共有したり，みんなで黙々と作業する時間を取る会です！
-11月30日（日）開催です！
-参加登録は[こちら](https://osdev-jp.connpass.com/event/374760/)から！
+# osdev-jp
 
-## 自作OSアドベントカレンダー2025のご案内！
-積極的に記事を書いていただけると喜びます！
-今年の低レイヤー活動を記事にまとめてみんなに読んでほしいという人はぜひご活用ください！
-登録は[こちら](https://adventar.org/calendars/11966)から！
+## 第52回自作OSもくもく発表作業会のご案内！
+8月2日（日）に自作OSもくもく発表作業会オンラインを開催します．
+自分のOSを自慢したい人や，誰かのOSを見てみたい人，低レイヤに興味がある人はぜひ参加してください！
+参加登録は[こちら](https://osdev-jp.connpass.com/event/399580/)から！
 
 ## リンク
 - [Wiki](https://github.com/osdev-jp/osdev-jp.github.io/wiki) OS開発に役立つ情報が集まっています。GitHubアカウントがあれば編集できます。
 	- [ウェブページとして見る](https://osdev.jp/wiki/Home.html)
+	- [![Update Wiki Submodule](https://github.com/osdev-jp/osdev-jp.github.io/actions/workflows/UpdateWikiSubmodule.yml/badge.svg)](https://github.com/osdev-jp/osdev-jp.github.io/actions/workflows/UpdateWikiSubmodule.yml) - <small>失敗している時は [Issues](https://github.com/osdev-jp/osdev-jp.github.io/issues) か [Discord の #運営の相談](https://discord.com/channels/1393134038142812195/1393150449519034452) へ連絡お願いします。</small>
 - [GitHub](https://github.com/osdev-jp) サンプルコードなどが置いてあります。
 - [YouTube](https://www.youtube.com/channel/UCZi_C-xvC5qNcALfD_5JKIg) OS開発に関わる情報を動画で解説しています。
 
@@ -18,10 +16,6 @@ OS自作をやっている人々で集まって，進捗を共有したり，み
 だいたい隔月ごとに「自作OSもくもく会」を実施しています。[connpassのページ](https://osdev-jp.connpass.com/)からグループメンバーになると次回開催の告知が届きます。
 
 ぜひご参加ください！
-
-* `#osdev_moku2` を X (旧 Twitter) で
-	* [投稿する](https://x.com/intent/post?hashtags=osdev_moku2)
-	* [検索する](https://x.com/search?q=%23osdev_moku2)
 
 ## Discord、メーリングリストへの参加方法
 Discordやメーリングリスト（ML）ではOS開発の質問とか相談が日々やり取りされています。
@@ -31,6 +25,15 @@ DiscordかMLのいずれか（または両方）へ参加いただくことでos
 詳しくは [参加方法](joinus.md) をご覧ください。
 
 [チャットのチャンネル案内](channels.md)
+
+## X (旧 Twitter)
+|ハッシュタグ|リンク|説明|
+|:--|:-:|:--|
+|`#osdevjp`|[投稿](https://x.com/intent/post?hashtags=osdevjp) - [検索](https://x.com/search?q=%23osdevjp)|osdev-jp 全般のハッシュタグ。|
+|`#osdevmoku2`|[投稿](https://x.com/intent/post?hashtags=osdevmoku2) - [検索](https://x.com/search?q=%23osdevmoku2)|自作OSもくもく会の新しいハッシュタグ。2026年3月頃から使用。|
+|`#osdev_moku2`|[投稿](https://x.com/intent/post?hashtags=osdev_moku2) - [検索](https://x.com/search?q=%23osdev_moku2)|自作OSもくもく会の古いハッシュタグ。2026年3月頃まで使用。|
+
+[コミュニティ](https://x.com/i/communities/2036354446725353846)
 
 ## 行動規範(Code of Conduct)
 
