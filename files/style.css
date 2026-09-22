@@ -1,0 +1,11 @@
+
+/* 「チャンネル案内」（channels.md）の「表示されるチャンネルの制御方法」で使用 */
+img[alt=SP] {
+	width    : 100%;
+	max-width: 320px;
+}
+
+img[alt=PC] {
+	width    : 100%;
+	max-width: 960px;
+}
