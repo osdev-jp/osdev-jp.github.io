@@ -1,9 +1,10 @@
 # osdev-jp
 
-## 第52回自作OSもくもく発表作業会のご案内！
-8月2日（日）に自作OSもくもく発表作業会オンラインを開催します．
-自分のOSを自慢したい人や，誰かのOSを見てみたい人，低レイヤに興味がある人はぜひ参加してください！
-参加登録は[こちら](https://osdev-jp.connpass.com/event/399580/)から！
+## 第54回自作OSもくもく発表作業会のご案内！
+11月28日（土）に[自作OSもくもく発表作業会](https://osdev-jp.connpass.com/event/410257/)を開催します。
+今回は[自作CPUを語る会](https://makecpu.connpass.com/event/400470/)と併催のオフライン開催です。
+zoomでの参加も可能です。
+自分のOSを自慢したい人や、誰かのOSを見てみたい人、低レイヤに興味がある人はぜひ参加してください！
 
 ## リンク
 - [Wiki](https://github.com/osdev-jp/osdev-jp.github.io/wiki) OS開発に役立つ情報が集まっています。GitHubアカウントがあれば編集できます。
